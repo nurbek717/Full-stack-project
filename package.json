@@ -1,0 +1,19 @@
+{
+  "name": "full-stack",
+  "version": "1.0.0",
+  "description": "Backend application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "Node.Js",
+    "ExpressJS"
+  ],
+  "author": "Nurbek Tukhtamishev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "uuid": "^13.0.0"
+  }
+}
